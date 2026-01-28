@@ -5,3 +5,5 @@ while True:
     y=input("enter the translation in english\t")
     translate.update({x:y})
     print(translate)
+    
+    
