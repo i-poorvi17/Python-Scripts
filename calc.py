@@ -42,8 +42,8 @@ try:
                     print("invalid operator")
             print(a) 
                  
-except Exception as e:
-    print("error occured", e)
+except:
+    print("error occured")
 finally:
     print('calculation  ended')
             
