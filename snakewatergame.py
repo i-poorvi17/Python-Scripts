@@ -21,7 +21,7 @@ while True:
         if (user==1):
             print(f'computer choose {computer}')
             score=score+1
-            print(f'you win! u drink the 2 so fast \n ur score is {score}\n')
+            print(f'you win! u drink the water so fast \n ur score is {score}\n')
         elif(user==3):
             print(f'computer choose {computer}')
             print(f"u lose! u gun sink {score}\n")
